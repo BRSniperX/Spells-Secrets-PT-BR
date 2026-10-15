@@ -1,3 +1,6 @@
+<img width="2048" height="768" alt="Academia Mágica_ Feitiços e Segredos" src="https://github.com/user-attachments/assets/1b0dc3e8-1615-4339-9ae3-a8b87afa0bbd" />
+
+
 ### Spells & Secrets — Tradução PT-BR v1.0
 
 Primeira versão da tradução de fã de **Spells & Secrets** (Steam) para português do Brasil.
